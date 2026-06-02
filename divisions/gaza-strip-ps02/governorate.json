@@ -1,0 +1,227 @@
+[
+  {
+    "id": "PS0265",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "دير البلح",
+      "en": "Deir Al-Balah",
+      "slug": "deir-al-balah-ps0265"
+    },
+    "code": {
+      "id": "PS0265",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.42",
+      "lon": "34.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0260",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "غزة",
+      "en": "Gaza",
+      "slug": "gaza-ps0260"
+    },
+    "code": {
+      "id": "PS0260",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.486",
+      "lon": "34.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0270",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "خان يونس",
+      "en": "Khan Younis",
+      "slug": "khan-younis-ps0270"
+    },
+    "code": {
+      "id": "PS0270",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.328",
+      "lon": "34.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0255",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "شمال غزة",
+      "en": "North Gaza",
+      "slug": "north-gaza-ps0255"
+    },
+    "code": {
+      "id": "PS0255",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.547",
+      "lon": "34.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0275",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "رفح",
+      "en": "Rafah",
+      "slug": "rafah-ps0275"
+    },
+    "code": {
+      "id": "PS0275",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.282",
+      "lon": "34.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

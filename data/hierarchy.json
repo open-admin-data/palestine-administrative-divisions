@@ -1,0 +1,225 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/ps/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/palestine-administrative-divisions",
+  "data": [
+    {
+      "id": "PS02",
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      },
+      "code": {
+        "id": "PS02",
+        "iso": null
+      },
+      "governorate": [
+        {
+          "id": "PS0255",
+          "name": {
+            "local": "شمال غزة",
+            "en": "North Gaza",
+            "slug": "north-gaza-ps0255"
+          },
+          "code": {
+            "id": "PS0255",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0260",
+          "name": {
+            "local": "غزة",
+            "en": "Gaza",
+            "slug": "gaza-ps0260"
+          },
+          "code": {
+            "id": "PS0260",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0265",
+          "name": {
+            "local": "دير البلح",
+            "en": "Deir Al-Balah",
+            "slug": "deir-al-balah-ps0265"
+          },
+          "code": {
+            "id": "PS0265",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0270",
+          "name": {
+            "local": "خان يونس",
+            "en": "Khan Younis",
+            "slug": "khan-younis-ps0270"
+          },
+          "code": {
+            "id": "PS0270",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0275",
+          "name": {
+            "local": "رفح",
+            "en": "Rafah",
+            "slug": "rafah-ps0275"
+          },
+          "code": {
+            "id": "PS0275",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PS01",
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      },
+      "code": {
+        "id": "PS01",
+        "iso": null
+      },
+      "governorate": [
+        {
+          "id": "PS0101",
+          "name": {
+            "local": "جنين",
+            "en": "Jenin",
+            "slug": "jenin-ps0101"
+          },
+          "code": {
+            "id": "PS0101",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0105",
+          "name": {
+            "local": "طوباس",
+            "en": "Tubas",
+            "slug": "tubas-ps0105"
+          },
+          "code": {
+            "id": "PS0105",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0110",
+          "name": {
+            "local": "طولكرم",
+            "en": "Tulkarm",
+            "slug": "tulkarm-ps0110"
+          },
+          "code": {
+            "id": "PS0110",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0115",
+          "name": {
+            "local": "نابلس",
+            "en": "Nablus",
+            "slug": "nablus-ps0115"
+          },
+          "code": {
+            "id": "PS0115",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0120",
+          "name": {
+            "local": "قلقيلية",
+            "en": "Qalqilya",
+            "slug": "qalqilya-ps0120"
+          },
+          "code": {
+            "id": "PS0120",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0125",
+          "name": {
+            "local": "سلفيت",
+            "en": "Salfit",
+            "slug": "salfit-ps0125"
+          },
+          "code": {
+            "id": "PS0125",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0130",
+          "name": {
+            "local": "رام الله والبيرة",
+            "en": "Ramallah",
+            "slug": "ramallah-ps0130"
+          },
+          "code": {
+            "id": "PS0130",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0135",
+          "name": {
+            "local": "أريحا والأغوار",
+            "en": "Jericho",
+            "slug": "jericho-ps0135"
+          },
+          "code": {
+            "id": "PS0135",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0140",
+          "name": {
+            "local": "القدس",
+            "en": "Jerusalem",
+            "slug": "jerusalem-ps0140"
+          },
+          "code": {
+            "id": "PS0140",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0145",
+          "name": {
+            "local": "بيت لحم",
+            "en": "Bethlehem",
+            "slug": "bethlehem-ps0145"
+          },
+          "code": {
+            "id": "PS0145",
+            "iso": null
+          }
+        },
+        {
+          "id": "PS0150",
+          "name": {
+            "local": "الخليل",
+            "en": "Hebron",
+            "slug": "hebron-ps0150"
+          },
+          "code": {
+            "id": "PS0150",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

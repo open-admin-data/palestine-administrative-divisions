@@ -1,0 +1,71 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/ps/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/palestine-administrative-divisions",
+  "data": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "level_name": {
+        "local": "إقليم",
+        "en": "Region"
+      },
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      },
+      "code": {
+        "id": "PS01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "governorate": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.948",
+        "lon": "35.267"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ps/regions/west-bank-ps01/",
+        "api": "https://openadmindata.org/api/ps/"
+      }
+    },
+    {
+      "id": "PS02",
+      "level": 1,
+      "level_name": {
+        "local": "إقليم",
+        "en": "Region"
+      },
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      },
+      "code": {
+        "id": "PS02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "governorate": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.407",
+        "lon": "34.358"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ps/regions/gaza-strip-ps02/",
+        "api": "https://openadmindata.org/api/ps/"
+      }
+    }
+  ]
+}

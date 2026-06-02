@@ -1,0 +1,45 @@
+{
+  "id": "PS0135",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "أريحا والأغوار",
+    "en": "Jericho",
+    "slug": "jericho-ps0135"
+  },
+  "code": {
+    "id": "PS0135",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.968",
+    "lon": "35.478"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,34 @@
+# Gaza Strip — Palestine Administrative Divisions
+
+> 5 governorates
+> Code: PS02
+> Coordinates: 31.407, 34.358
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Governorates
+
+### دير البلح (Deir Al-Balah)
+
+Code: PS0265, Coordinates: 31.42, 34.374
+
+
+### غزة (Gaza)
+
+Code: PS0260, Coordinates: 31.486, 34.445
+
+
+### خان يونس (Khan Younis)
+
+Code: PS0270, Coordinates: 31.328, 34.318
+
+
+### شمال غزة (North Gaza)
+
+Code: PS0255, Coordinates: 31.547, 34.506
+
+
+### رفح (Rafah)
+
+Code: PS0275, Coordinates: 31.282, 34.283
+
+

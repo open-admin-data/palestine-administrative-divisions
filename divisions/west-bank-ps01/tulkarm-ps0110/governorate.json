@@ -1,0 +1,45 @@
+{
+  "id": "PS0110",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "طولكرم",
+    "en": "Tulkarm",
+    "slug": "tulkarm-ps0110"
+  },
+  "code": {
+    "id": "PS0110",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.328",
+    "lon": "35.084"
+  },
+  "metadata": {},
+  "source": {}
+}

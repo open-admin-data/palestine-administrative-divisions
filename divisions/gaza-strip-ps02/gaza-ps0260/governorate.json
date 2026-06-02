@@ -1,0 +1,45 @@
+{
+  "id": "PS0260",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "غزة",
+    "en": "Gaza",
+    "slug": "gaza-ps0260"
+  },
+  "code": {
+    "id": "PS0260",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS02",
+    "level": 1,
+    "name": {
+      "local": "قطاع غزة",
+      "en": "Gaza Strip",
+      "slug": "gaza-strip-ps02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.486",
+    "lon": "34.445"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "PS0101",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "جنين",
+      "en": "Jenin",
+      "slug": "jenin-ps0101"
+    },
+    "code": {
+      "id": "PS0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.426",
+      "lon": "35.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0105",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "طوباس",
+      "en": "Tubas",
+      "slug": "tubas-ps0105"
+    },
+    "code": {
+      "id": "PS0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.295",
+      "lon": "35.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0110",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "طولكرم",
+      "en": "Tulkarm",
+      "slug": "tulkarm-ps0110"
+    },
+    "code": {
+      "id": "PS0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.328",
+      "lon": "35.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0115",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "نابلس",
+      "en": "Nablus",
+      "slug": "nablus-ps0115"
+    },
+    "code": {
+      "id": "PS0115",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.179",
+      "lon": "35.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0120",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "قلقيلية",
+      "en": "Qalqilya",
+      "slug": "qalqilya-ps0120"
+    },
+    "code": {
+      "id": "PS0120",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.181",
+      "lon": "35.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0125",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "سلفيت",
+      "en": "Salfit",
+      "slug": "salfit-ps0125"
+    },
+    "code": {
+      "id": "PS0125",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.112",
+      "lon": "35.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0130",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "رام الله والبيرة",
+      "en": "Ramallah",
+      "slug": "ramallah-ps0130"
+    },
+    "code": {
+      "id": "PS0130",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.943",
+      "lon": "35.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0135",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "أريحا والأغوار",
+      "en": "Jericho",
+      "slug": "jericho-ps0135"
+    },
+    "code": {
+      "id": "PS0135",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.968",
+      "lon": "35.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0140",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "القدس",
+      "en": "Jerusalem",
+      "slug": "jerusalem-ps0140"
+    },
+    "code": {
+      "id": "PS0140",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.802",
+      "lon": "35.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0145",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "بيت لحم",
+      "en": "Bethlehem",
+      "slug": "bethlehem-ps0145"
+    },
+    "code": {
+      "id": "PS0145",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.604",
+      "lon": "35.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0150",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الخليل",
+      "en": "Hebron",
+      "slug": "hebron-ps0150"
+    },
+    "code": {
+      "id": "PS0150",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS01",
+        "level": 1,
+        "name": {
+          "local": "الضفة الغربية",
+          "en": "West Bank",
+          "slug": "west-bank-ps01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.507",
+      "lon": "35.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0255",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "شمال غزة",
+      "en": "North Gaza",
+      "slug": "north-gaza-ps0255"
+    },
+    "code": {
+      "id": "PS0255",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.547",
+      "lon": "34.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0260",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "غزة",
+      "en": "Gaza",
+      "slug": "gaza-ps0260"
+    },
+    "code": {
+      "id": "PS0260",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.486",
+      "lon": "34.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0265",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "دير البلح",
+      "en": "Deir Al-Balah",
+      "slug": "deir-al-balah-ps0265"
+    },
+    "code": {
+      "id": "PS0265",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.42",
+      "lon": "34.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0270",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "خان يونس",
+      "en": "Khan Younis",
+      "slug": "khan-younis-ps0270"
+    },
+    "code": {
+      "id": "PS0270",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.328",
+      "lon": "34.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PS0275",
+    "level": 2,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "رفح",
+      "en": "Rafah",
+      "slug": "rafah-ps0275"
+    },
+    "code": {
+      "id": "PS0275",
+      "iso": null
+    },
+    "parent": {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PS02",
+        "level": 1,
+        "name": {
+          "local": "قطاع غزة",
+          "en": "Gaza Strip",
+          "slug": "gaza-strip-ps02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.282",
+      "lon": "34.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

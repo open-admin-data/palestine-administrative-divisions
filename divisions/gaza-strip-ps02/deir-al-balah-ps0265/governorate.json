@@ -1,0 +1,45 @@
+{
+  "id": "PS0265",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "دير البلح",
+    "en": "Deir Al-Balah",
+    "slug": "deir-al-balah-ps0265"
+  },
+  "code": {
+    "id": "PS0265",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS02",
+    "level": 1,
+    "name": {
+      "local": "قطاع غزة",
+      "en": "Gaza Strip",
+      "slug": "gaza-strip-ps02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.42",
+    "lon": "34.374"
+  },
+  "metadata": {},
+  "source": {}
+}

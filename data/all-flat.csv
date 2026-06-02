@@ -1,0 +1,4 @@
+# Data from Open Admin Data (https://openadmindata.org/ps/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/palestine-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.governorate,zip_codes,geo.lat,geo.lon,source_url
+PS01,1,إقليم,Region,الضفة الغربية,West Bank,west-bank-ps01,PS01,,,,,,11,,31.948,35.267,https://openadmindata.org/ps/regions/west-bank-ps01/
+PS02,1,إقليم,Region,قطاع غزة,Gaza Strip,gaza-strip-ps02,PS02,,,,,,5,,31.407,34.358,https://openadmindata.org/ps/regions/gaza-strip-ps02/

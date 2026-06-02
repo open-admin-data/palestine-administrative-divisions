@@ -1,0 +1,33 @@
+{
+  "id": "PS02",
+  "level": 1,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Region"
+  },
+  "name": {
+    "local": "قطاع غزة",
+    "en": "Gaza Strip",
+    "slug": "gaza-strip-ps02"
+  },
+  "code": {
+    "id": "PS02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "governorate": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.407",
+    "lon": "34.358"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ps/regions/gaza-strip-ps02/",
+    "api": "https://openadmindata.org/api/ps/"
+  }
+}

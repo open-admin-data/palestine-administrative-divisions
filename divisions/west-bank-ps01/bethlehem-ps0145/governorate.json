@@ -1,0 +1,45 @@
+{
+  "id": "PS0145",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "بيت لحم",
+    "en": "Bethlehem",
+    "slug": "bethlehem-ps0145"
+  },
+  "code": {
+    "id": "PS0145",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.604",
+    "lon": "35.307"
+  },
+  "metadata": {},
+  "source": {}
+}

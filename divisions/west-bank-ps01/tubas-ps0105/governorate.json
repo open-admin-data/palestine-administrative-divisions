@@ -1,0 +1,45 @@
+{
+  "id": "PS0105",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "طوباس",
+    "en": "Tubas",
+    "slug": "tubas-ps0105"
+  },
+  "code": {
+    "id": "PS0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.295",
+    "lon": "35.44"
+  },
+  "metadata": {},
+  "source": {}
+}

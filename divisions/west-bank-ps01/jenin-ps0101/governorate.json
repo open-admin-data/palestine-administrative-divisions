@@ -1,0 +1,45 @@
+{
+  "id": "PS0101",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "جنين",
+    "en": "Jenin",
+    "slug": "jenin-ps0101"
+  },
+  "code": {
+    "id": "PS0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.426",
+    "lon": "35.255"
+  },
+  "metadata": {},
+  "source": {}
+}

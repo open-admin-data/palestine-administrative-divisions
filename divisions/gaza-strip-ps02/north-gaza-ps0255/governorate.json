@@ -1,0 +1,45 @@
+{
+  "id": "PS0255",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "شمال غزة",
+    "en": "North Gaza",
+    "slug": "north-gaza-ps0255"
+  },
+  "code": {
+    "id": "PS0255",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS02",
+    "level": 1,
+    "name": {
+      "local": "قطاع غزة",
+      "en": "Gaza Strip",
+      "slug": "gaza-strip-ps02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.547",
+    "lon": "34.506"
+  },
+  "metadata": {},
+  "source": {}
+}

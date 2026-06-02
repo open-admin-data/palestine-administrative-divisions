@@ -1,0 +1,45 @@
+{
+  "id": "PS0140",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "القدس",
+    "en": "Jerusalem",
+    "slug": "jerusalem-ps0140"
+  },
+  "code": {
+    "id": "PS0140",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.802",
+    "lon": "35.302"
+  },
+  "metadata": {},
+  "source": {}
+}

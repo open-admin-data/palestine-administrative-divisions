@@ -1,0 +1,64 @@
+# West Bank — Palestine Administrative Divisions
+
+> 11 governorates
+> Code: PS01
+> Coordinates: 31.948, 35.267
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Governorates
+
+### بيت لحم (Bethlehem)
+
+Code: PS0145, Coordinates: 31.604, 35.307
+
+
+### الخليل (Hebron)
+
+Code: PS0150, Coordinates: 31.507, 35.117
+
+
+### جنين (Jenin)
+
+Code: PS0101, Coordinates: 32.426, 35.255
+
+
+### أريحا والأغوار (Jericho)
+
+Code: PS0135, Coordinates: 31.968, 35.478
+
+
+### القدس (Jerusalem)
+
+Code: PS0140, Coordinates: 31.802, 35.302
+
+
+### نابلس (Nablus)
+
+Code: PS0115, Coordinates: 32.179, 35.302
+
+
+### قلقيلية (Qalqilya)
+
+Code: PS0120, Coordinates: 32.181, 35.067
+
+
+### رام الله والبيرة (Ramallah)
+
+Code: PS0130, Coordinates: 31.943, 35.197
+
+
+### سلفيت (Salfit)
+
+Code: PS0125, Coordinates: 32.112, 35.121
+
+
+### طوباس (Tubas)
+
+Code: PS0105, Coordinates: 32.295, 35.44
+
+
+### طولكرم (Tulkarm)
+
+Code: PS0110, Coordinates: 32.328, 35.084
+
+

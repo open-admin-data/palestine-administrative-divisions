@@ -1,0 +1,54 @@
+# Palestine Administrative Divisions
+
+> Open dataset of Palestine's administrative hierarchy:
+> 2 regions, 16 governorates.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 2
+- Total governorates: 16
+- Coordinates: included (all levels)
+- Last updated: 2026-06-02
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/data/all-region.json)
+- [All governorates (JSON)](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/data/all-governorate.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Gaza Strip](https://github.com/open-admin-data/palestine-administrative-divisions/tree/main/divisions/gaza-strip-ps02/) — 5 governorates
+- [West Bank](https://github.com/open-admin-data/palestine-administrative-divisions/tree/main/divisions/west-bank-ps01/) — 11 governorates
+
+## Per-Region Full Data
+
+- [Gaza Strip](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/docs/llms-full/gaza-strip-ps02.txt)
+- [West Bank](https://raw.githubusercontent.com/open-admin-data/palestine-administrative-divisions/main/docs/llms-full/west-bank-ps01.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (governorate)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Palestine Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/palestine-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

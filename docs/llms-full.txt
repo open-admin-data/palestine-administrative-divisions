@@ -1,0 +1,15 @@
+# Palestine Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Gaza Strip](https://github.com/open-admin-data/palestine-administrative-divisions/blob/main/docs/llms-full/gaza-strip-ps02.txt) — 5 governorates
+- [West Bank](https://github.com/open-admin-data/palestine-administrative-divisions/blob/main/docs/llms-full/west-bank-ps01.txt) — 11 governorates
+
+## Summary
+
+| Region | Governorates | 
+|---|---|
+| Gaza Strip | 5 | 
+| West Bank | 11 | 

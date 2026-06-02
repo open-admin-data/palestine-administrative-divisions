@@ -1,0 +1,45 @@
+{
+  "id": "PS0130",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "رام الله والبيرة",
+    "en": "Ramallah",
+    "slug": "ramallah-ps0130"
+  },
+  "code": {
+    "id": "PS0130",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS01",
+    "level": 1,
+    "name": {
+      "local": "الضفة الغربية",
+      "en": "West Bank",
+      "slug": "west-bank-ps01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS01",
+      "level": 1,
+      "name": {
+        "local": "الضفة الغربية",
+        "en": "West Bank",
+        "slug": "west-bank-ps01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.943",
+    "lon": "35.197"
+  },
+  "metadata": {},
+  "source": {}
+}

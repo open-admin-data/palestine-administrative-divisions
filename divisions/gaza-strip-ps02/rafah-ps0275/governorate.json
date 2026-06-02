@@ -1,0 +1,45 @@
+{
+  "id": "PS0275",
+  "level": 2,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "رفح",
+    "en": "Rafah",
+    "slug": "rafah-ps0275"
+  },
+  "code": {
+    "id": "PS0275",
+    "iso": null
+  },
+  "parent": {
+    "id": "PS02",
+    "level": 1,
+    "name": {
+      "local": "قطاع غزة",
+      "en": "Gaza Strip",
+      "slug": "gaza-strip-ps02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PS02",
+      "level": 1,
+      "name": {
+        "local": "قطاع غزة",
+        "en": "Gaza Strip",
+        "slug": "gaza-strip-ps02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.282",
+    "lon": "34.283"
+  },
+  "metadata": {},
+  "source": {}
+}
