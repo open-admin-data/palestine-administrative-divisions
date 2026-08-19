@@ -3,7 +3,7 @@
 > 11 governorates
 > Code: PS01
 > Coordinates: 31.948, 35.267
-> Last updated: 2026-06-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Governorates
 
