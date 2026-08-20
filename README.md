@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/ps](https://openadmindata.org/ps/) |
 | API | [openadmindata.org/api/ps](https://openadmindata.org/api/ps/) |
+| Flag | [PNG](https://onlygames.me/flags-png/ps/) · [SVG](https://onlygames.me/flags-svg/ps/) · [PDF](https://onlygames.me/flags-pdf/ps/) |
 | National Anthem | [🎵 Listen & Download Palestine National Anthem MP3](https://onlygames.me/national-anthems/ps/) |
 
 ## Browse by Region
